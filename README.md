@@ -117,5 +117,5 @@ credit-risk-model/
 ## Author
 **Alexis Trebeau**  
 University of North Carolina at Chapel Hill  
-Statistics & Data Science | Business Minor  
+Statistics & Data Science  
 Aspiring Risk / Financial Data Analyst
